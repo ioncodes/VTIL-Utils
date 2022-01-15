@@ -7,6 +7,7 @@
 
 #include <filesystem>
 #include <vector>
+#include <sstream>
 
 // Some extensions for the arguments library
 namespace args
